@@ -1,0 +1,5 @@
+.env
+.tools/
+data/
+*.exe
+/bot
